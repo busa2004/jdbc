@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import com.douzone.jdbc.hr.dao.EmployeeDao;
 import com.douzone.jdbc.hr.vo.EmployeeVo;
- 
+  
 public class HRMain {
 	public static void main(String[] args) {
 		
